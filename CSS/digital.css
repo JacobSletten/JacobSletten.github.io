@@ -52,6 +52,8 @@ footer {
   border-radius: 10px; /* 5px rounded corners */
   background-color: rgba(32, 132, 193, 0.2);
 
+  padding:200px;
+
   width:200px;
   height:200px;
   position: fixed;
