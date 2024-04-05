@@ -51,6 +51,14 @@ footer {
   transition: 0.3s;
   border-radius: 10px; /* 5px rounded corners */
   background-color: rgba(32, 132, 193, 0.2);
+
+      width:200px;
+			height:200px;
+			position: fixed;
+			top: 50%;
+			left: 50%;
+			margin-top: -100px;
+			margin-left: -100px;
 }
 
 /* Add rounded corners to the top left and the top right corner of the image */
