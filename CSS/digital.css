@@ -61,9 +61,9 @@ footer {
   height:100px;
   position: fixed;
   /*top: 50%;
-  left: 50%;*/
+  left: 50%;
   margin-top: -100px;
-  margin-left: -100px;
+  margin-left: -100px;*/
 }
 
 /* Add rounded corners to the top left and the top right corner of the image */
