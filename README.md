@@ -1,2 +1,0 @@
-# JacobSletten.github.io
-Portfolio
