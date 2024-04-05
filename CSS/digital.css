@@ -60,8 +60,8 @@ footer {
   width:100px;
   height:100px;
   position: fixed;
-  top: 50%;
-  left: 50%;
+  /*top: 50%;
+  left: 50%;*/
   margin-top: -100px;
   margin-left: -100px;
 }
