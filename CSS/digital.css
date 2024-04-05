@@ -49,7 +49,7 @@ footer {
 .card {
   box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
   transition: 0.3s;
-  border-radius: 10px; /* 5px rounded corners */
+  border-radius: 20px; /* 5px rounded corners */
   background-color: rgba(32, 132, 193, 0.2);
 
   padding:200px;
@@ -65,5 +65,5 @@ footer {
 
 /* Add rounded corners to the top left and the top right corner of the image */
 img {
-  border-radius: 10px 10px 0 0;
+  border-radius: 20px 20px 0 0;
 }
