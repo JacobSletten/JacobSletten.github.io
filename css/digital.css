@@ -83,6 +83,8 @@ body {
   border-radius: 20px 20px 0px 0px
 }
 .project h4 {
+    font-size: 100%;
+    line-height: 120%;
     margin-top: 0px;
     margin-bottom: 0px;
 }
